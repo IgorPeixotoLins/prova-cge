@@ -123,7 +123,7 @@ As análises visuais do projeto revelam o comportamento dos gastos públicos do 
      
    * Os 10 maiores prestadores concentram **26,54%** de todo o orçamento liquidado do Estado (R\$ 8,68 Bi de R\$ 32,72 Bi).  
    * Liderança expressiva de Organizações Sociais de Saúde (OSS) e órgãos públicos de assistência médica (Fundação Saúde do Estado do RJ com R\$ 3,41 Bi e Instituto IDEAS com R\$ 1,46 Bi).  
-   * Visualização salva em: `docs/curva_abc.png`
+   ![Curva ABC](docs/curva_abc.png)
 
    
 
@@ -131,7 +131,7 @@ As análises visuais do projeto revelam o comportamento dos gastos públicos do 
      
    * A **Dispensa \- Especial** lidera o volume financeiro liquidado com **42,07%** do montante total (R\$ 13,77 Bi em 10.442 contratos), superando o Pregão Eletrônico (16,91% / R\$ 5,53 Bi).  
    * O resultado evidencia o uso intensivo de instrumentos diretos de contratação respaldados por legislação extraordinária durante o período pandêmico.  
-   * Visualização salva em: `docs/modalidades_aquisicao.png`
+   ![Modalidades de Aquisição](docs/modalidades_aquisicao.png)).
 
 ---
 
